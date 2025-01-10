@@ -1,0 +1,192 @@
+2024-11-25 15:33:59,597 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:35747'
+2024-11-25 15:33:59,597 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:38293'
+2024-11-25 15:33:59,597 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:34789'
+2024-11-25 15:33:59,597 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:34563'
+2024-11-25 15:33:59,613 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:46613'
+2024-11-25 15:33:59,614 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:34505'
+2024-11-25 15:33:59,615 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:34185'
+2024-11-25 15:33:59,621 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.242.76.54:44651'
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:36401
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:40011
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:36401
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:40011
+2024-11-25 15:34:01,358 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-4
+2024-11-25 15:34:01,358 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-2
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:46693
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:42791
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          dashboard at:         10.242.76.54:35297
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          dashboard at:         10.242.76.54:35597
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:46693
+2024-11-25 15:34:01,358 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:42791
+2024-11-25 15:34:01,358 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,358 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-5
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-6
+2024-11-25 15:34:01,358 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,358 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          dashboard at:         10.242.76.54:39061
+2024-11-25 15:34:01,358 - distributed.worker - INFO -          dashboard at:         10.242.76.54:46101
+2024-11-25 15:34:01,358 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,358 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,358 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,358 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-5nqh6bn1
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-gf05m9zm
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,358 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,358 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-rio3m2hq
+2024-11-25 15:34:01,358 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-wleh20h3
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,358 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,360 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:35421
+2024-11-25 15:34:01,361 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:41421
+2024-11-25 15:34:01,361 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:44989
+2024-11-25 15:34:01,361 - distributed.worker - INFO -       Start worker at:   tcp://10.242.76.54:36047
+2024-11-25 15:34:01,361 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:41421
+2024-11-25 15:34:01,361 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:44989
+2024-11-25 15:34:01,361 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:36047
+2024-11-25 15:34:01,361 - distributed.worker - INFO -          Listening to:   tcp://10.242.76.54:35421
+2024-11-25 15:34:01,362 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-7
+2024-11-25 15:34:01,362 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-1
+2024-11-25 15:34:01,362 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-0
+2024-11-25 15:34:01,362 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-3
+2024-11-25 15:34:01,362 - distributed.worker - INFO -          dashboard at:         10.242.76.54:37187
+2024-11-25 15:34:01,362 - distributed.worker - INFO -          dashboard at:         10.242.76.54:37167
+2024-11-25 15:34:01,362 - distributed.worker - INFO -          dashboard at:         10.242.76.54:33047
+2024-11-25 15:34:01,362 - distributed.worker - INFO -          dashboard at:         10.242.76.54:34419
+2024-11-25 15:34:01,362 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,362 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,362 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,362 - distributed.worker - INFO - Waiting to connect to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,362 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,362 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,362 - distributed.worker - INFO -               Threads:                          1
+2024-11-25 15:34:01,362 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,362 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,362 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,362 - distributed.worker - INFO -                Memory:                   2.79 GiB
+2024-11-25 15:34:01,362 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-el9jctx7
+2024-11-25 15:34:01,362 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-101lbx_d
+2024-11-25 15:34:01,362 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-fhgmjz83
+2024-11-25 15:34:01,362 - distributed.worker - INFO -       Local Directory: /scratch/local/u1037042/2386321/dask-scratch-space/worker-x6o5ics2
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:01,362 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,492 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,492 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,492 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,492 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,493 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,493 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,493 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,493 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,493 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,493 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,493 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,493 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,493 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,494 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,493 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,494 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,494 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,494 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,494 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,494 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,494 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,494 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,494 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,494 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,495 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,495 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-11-25 15:34:03,495 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,495 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,495 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:34:03,495 - distributed.worker - INFO -         Registered to:  tcp://10.242.76.197:37753
+2024-11-25 15:34:03,495 - distributed.worker - INFO - -------------------------------------------------
+2024-11-25 15:34:03,496 - distributed.core - INFO - Starting established connection to tcp://10.242.76.197:37753
+2024-11-25 15:39:53,675 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-8f49d810-b54c-4ecd-aaf9-dcc148712026
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7f1a3d4264d0>, <function open_dataset at 0x7f1a1e6b6cb0>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t13z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,675 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-8dd7729a-a91e-4649-abbe-d11f65e7d969
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7f34315824d0>, <function open_dataset at 0x7f3412ae5900>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t16z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,675 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-2eaad38d-6318-4e06-97c6-296774dc7ad3
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7fdd3228a4d0>, <function open_dataset at 0x7fdd137bb490>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t18z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,675 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-a5c4b140-d645-42a4-859a-a08a2da03774
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7f00365d64d0>, <function open_dataset at 0x7f0017b31120>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t05z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,675 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-a9517d90-6ee9-4709-88cd-165e54b6c260
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7ff51f51e4d0>, <function open_dataset at 0x7ff5048dedd0>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t15z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,675 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-bb968892-996b-487f-adb0-183465b2b3dd
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7fd06bb4a4d0>, <function open_dataset at 0x7fd050f36290>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t03z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,682 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-85a642a5-734d-4ab9-89e2-3d5f32aefd12
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7f48f67f24d0>, <function open_dataset at 0x7f48d7bfea70>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t11z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
+2024-11-25 15:39:53,682 - distributed.worker - ERROR - Compute Failed
+Key:       open_dataset-aebe4b6e-4e10-4855-9221-52a563921f25
+State:     executing
+Function:  execute_task
+args:      ((<function apply at 0x7fc04690e4d0>, <function open_dataset at 0x7fc027c71360>, ['/uufs/chpc.utah.edu/common/home/uvu-group1/olson/snow-data/HRRR/hrrr.20210401/hrrr.t23z.wrfsfcf06.grib2'], (<class 'dict'>, [['engine', None], ['chunks', (<class 'dict'>, [['time', 24]])]])))
+kwargs:    {}
+Exception: 'ValueError("did not find a match in any of xarray\'s currently installed IO backends [\'netcdf4\']. Consider explicitly selecting one of the installed engines via the ``engine`` parameter, or installing additional IO dependencies, see:\\nhttps://docs.xarray.dev/en/stable/getting-started-guide/installing.html\\nhttps://docs.xarray.dev/en/stable/user-guide/io.html")'
+Traceback: '  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/dask/utils.py", line 78, in apply\n    return func(*args, **kwargs)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/api.py", line 652, in open_dataset\n    engine = plugins.guess_engine(filename_or_obj)\n  File "/uufs/chpc.utah.edu/common/home/u1037042/software/pkg/miniconda3/envs/smeshr/lib/python3.10/site-packages/xarray/backends/plugins.py", line 194, in guess_engine\n    raise ValueError(error_msg)\n'
+
